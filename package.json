@@ -43,6 +43,8 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@tremor/react": "^3.9.0",
     "chalk": "5.2.0",
     "commander": "^10.0.0",
     "execa": "^7.0.0",
